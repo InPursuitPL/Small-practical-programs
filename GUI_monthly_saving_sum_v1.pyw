@@ -1,4 +1,5 @@
 #! python3
+# This is a VERY rough first attempt to GUI!
 
 from tkinter import *
 
